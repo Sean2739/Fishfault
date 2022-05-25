@@ -1,12 +1,13 @@
 Base Pack: SammyFault
 ** BIG THANKS TO LEAFABLE, OCTEVA, & FUNMINER FOR HELPING A BUNCH WITH THIS PACK **
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 Other Creator's edits -
 Corrected Terracotta: https://www.curseforge.com/minecraft/texture-packs/color-corrected-clay =
 Enchant table: https://www.planetminecraft.com/texture-pack/better-enchanting-table-1-15-x-1-16-x/
 Animated Resources & Smooth Planks: (Isky's Tiktok Pack)
 Flowers: BetterVanillaBuilding
-Enchanted books: New Default+:
+Camo Creepers: https://www.curseforge.com/minecraft/texture-packs/camo-creepers
+Enchanted books & Enderman: New Default+:
 Transparent Explosions: Sybillian BW Overlay
 Fireball: Kimera 16x
 Custom Sounds: Novis 16x
@@ -47,5 +48,5 @@ My edits (discord helped too!):
 * Pack Icon
 * Wood Parity (Boat, Sign, etc.)
 * Lilypad Variety (Ported From Forever Vanilla) - Added Flowers
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 If I forgot to include you or you have any questions contact me on discord @ https://discord.gg/Jbws7FdPWu

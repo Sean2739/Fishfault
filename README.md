@@ -7,6 +7,9 @@ Custom Tools:
 Custom Food Items:
 ![image](https://user-images.githubusercontent.com/93109251/180107037-618146c1-9d4c-4e7d-b3e1-0a331da2ed83.png)
 
+Custom Enchantments:
+![image](https://user-images.githubusercontent.com/93109251/180107325-57b5a556-956f-4f5a-9d39-b0be9b3bcd8a.png)
+
 Built In Height/Bridge Overlay:
 ![1648867622543](https://user-images.githubusercontent.com/93109251/180105598-a6e9bede-bb74-4388-a571-047884dbd54d.png)
 
@@ -19,5 +22,3 @@ Built In Bedwars Overlay
 Clean Connected Wool: 
 ![image](https://user-images.githubusercontent.com/93109251/180106496-b5717b0a-4870-4b53-9133-2d7f40f30388.png)
 
-Custom Skies: 
-![image](https://user-images.githubusercontent.com/93109251/180106806-105ab360-282d-46b6-8ac2-04aba3b2a1ef.png)

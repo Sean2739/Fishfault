@@ -27,3 +27,6 @@ Built In Bedwars Overlay:
 Clean Connected Wool: 
 ![image](https://user-images.githubusercontent.com/93109251/180106496-b5717b0a-4870-4b53-9133-2d7f40f30388.png)
 
+AND SO MUCH MORE! **DOWNLOAD NOW!!!**
+
+(Some textures were not made by me, credits for everything can be found here or in pack itself. Big Thanks to Leafable for 3D models and Funminer for map previews. <3)

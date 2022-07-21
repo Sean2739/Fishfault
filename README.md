@@ -12,3 +12,6 @@ Built In Bedwars Overlay
 
 3D Models:
 ![image](https://user-images.githubusercontent.com/93109251/180106449-3c194194-6468-4cac-bf3b-e1d9fbc3c286.png)
+
+Clean Connected Wool: 
+![image](https://user-images.githubusercontent.com/93109251/180106496-b5717b0a-4870-4b53-9133-2d7f40f30388.png)

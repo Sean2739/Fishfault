@@ -10,6 +10,8 @@ Custom Food Items:
 Map Previews:
 ![image](https://user-images.githubusercontent.com/93109251/180108966-91eda194-b82a-42ac-88fc-f00ded266971.png)
 
+![image](https://user-images.githubusercontent.com/93109251/180109142-4cd074a6-c17c-47a9-a2dc-f69f426c1d73.png)
+
 Custom Enchantments:
 ![image](https://user-images.githubusercontent.com/93109251/180107325-57b5a556-956f-4f5a-9d39-b0be9b3bcd8a.png)
 

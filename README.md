@@ -11,4 +11,4 @@ Built In Bedwars Overlay
 ![image](https://user-images.githubusercontent.com/93109251/180105868-3a854747-7e82-462f-a65d-953169941770.png)
 
 3D Models:
-![image](https://user-images.githubusercontent.com/93109251/180106291-46053056-8802-4650-bbeb-20a2acd658e0.png)
+![image](https://user-images.githubusercontent.com/93109251/180106449-3c194194-6468-4cac-bf3b-e1d9fbc3c286.png)

@@ -1,7 +1,7 @@
 # Fishfault
 Some of The Features include:
 
-Custom Tools: (Myself)
+Custom Tools: 
 ![image](https://user-images.githubusercontent.com/93109251/180105969-3bf5a3c1-af23-4840-94b5-fba86b2b54a2.png)
 
 Custom Food Items: (Better Vanilla foods, Sucro, & Pluvia)
@@ -18,10 +18,10 @@ Custom Enchantments: (New Default+)
 Animated Resources: (Isky's TikTok Pack)
 ![2022-07-20 20-02-37_Trim](https://user-images.githubusercontent.com/93109251/180107963-ec23b82a-8e8b-41a1-a591-61f9c85a796a.gif)
 
-Built In Height/Bridge Overlay: (Myself)
+Built In Height/Bridge Overlay: 
 ![1648867622543](https://user-images.githubusercontent.com/93109251/180105598-a6e9bede-bb74-4388-a571-047884dbd54d.png)
 
-Built In Bedwars Overlay: (Myself)
+Built In Bedwars Overlay: 
 ![image](https://user-images.githubusercontent.com/93109251/180108100-2d14efac-6bfa-4ded-ad51-73f5b68f8641.png)
 
 ![image](https://user-images.githubusercontent.com/93109251/180108391-317b759a-7bfe-4016-86f5-9aeb8257e003.png)

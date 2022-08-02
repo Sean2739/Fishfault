@@ -1,0 +1,53 @@
+** BIG THANKS TO LEAFABLE, OCTEVA, & FUNMINER FOR HELPING A BUNCH WITH THIS PACK **
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Other Creator's edits -
+Corrected Terracotta: https://www.curseforge.com/minecraft/texture-packs/color-corrected-clay =
+Enchant table: https://www.planetminecraft.com/texture-pack/better-enchanting-table-1-15-x-1-16-x/
+Animated Resources & Smooth Planks: (Isky's Tiktok Pack)
+Flowers: BetterVanillaBuilding
+Camo Creepers: https://www.curseforge.com/minecraft/texture-packs/camo-creepers
+Enchanted books & Enderman: New Default+:
+Transparent Explosions: Sybillian BW Overlay
+Fireball: Kimera 16x
+Custom Sounds: Novis 16x
+Crown Helmets: https://www.planetminecraft.com/texture-pack/crown-helmets-1-8-9/
+Pumpkins & Transparent Inventory: Azura 16x: 
+Bridge overlay textures: https://www.youtube.com/watch?v=rXNCidkvGHk (besides white clay)
+Stonier Stone Bricks: https://www.planetminecraft.com/texture-pack/stonier-stone-bricks/
+Food: Better Vanilla foods, Sucro, & Pluvia
+Glass: https://xaphex.github.io/
+Weather, Rounded Moon, Red Golem Flowers, Leather Parity, Unique Dyes, and World Border: Vanilla Tweaks
+Rounded Logs and Chiseled Stone: Forever Vanilla
+Smooth Font: @packMEKer
+Invisible Item Frame: https://www.curseforge.com/minecraft/texture-packs/invisible-item-frame-pack/
+Torches: Sconces (Ported by Leafable)
+Polished Stones: Amethyst 16x
+Wool: No Mercy 16x
+Swords: Coast 16x (Edited to match)
+Old Door Sound: ClassicSFX (https://www.minecraftforum.net/forums/mapping-and-modding-java-edition/minecraft-mods/1278551-1-8-1-classicsfx-ssp-get-the-classic-minecraft)
+Redstone Lamp: https://www.planetminecraft.com/texture-pack/xxvi-s-redstone-lamp-1-18/
+3D Models: Leafable 
+Breaking Animation: https://www.planetminecraft.com/texture-pack/bar-break-overlay-d/
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+My edits (discord helped too!):
+* Recolers
+* Custom Leather Armor Model
+* Custom Icons (Health, Hunger, XP bar)
+* Sky (Collab w/ Leafable)
+* Panorama
+* Smooth Quartz
+* Custom Diamond Shop Textures (OG created by Sybillian)
+* Knockback Stick
+* Updated Bedwars Map Previews (OG created by MaxedOut)
+* Skywars Map Previews (w/ FunMiner)
+* Wool War Overlay (Custom Kit Ability Icons)
+* Stacked Item Textures
+* Outlined Ores
+* Smoother & 3D Ladders
+* Apples/Golden Apples
+* Litteraly Every tool (axe, pickaxe, shovel, hoe, bow, and fishing rod)
+* Pack Icon
+* Wood Parity (Boat, Sign, Bed, etc.)
+* Lilypad Variety (Ported From Forever Vanilla) - Added Flowers
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+If I forgot to include you or you have any questions contact me on discord @ https://discord.gg/Jbws7FdPWu

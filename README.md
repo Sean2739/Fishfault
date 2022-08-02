@@ -4,7 +4,7 @@ Some of The Features include:
 Custom Tools: 
 ![image](https://user-images.githubusercontent.com/93109251/180105969-3bf5a3c1-af23-4840-94b5-fba86b2b54a2.png)
 
-Custom Food Items: (Better Vanilla foods, Sucro, & Pluvia)
+Custom Food Items: (Better Vanilla foods 16x & Pluvia 16x)
 ![image](https://user-images.githubusercontent.com/93109251/180107037-618146c1-9d4c-4e7d-b3e1-0a331da2ed83.png)
 
 Map Previews: (MaxedOut and Funminer)
@@ -15,7 +15,7 @@ Map Previews: (MaxedOut and Funminer)
 Custom Enchantments: (New Default+)
 ![image](https://user-images.githubusercontent.com/93109251/180107325-57b5a556-956f-4f5a-9d39-b0be9b3bcd8a.png)
 
-Animated Resources: (Isky's TikTok Pack)
+Animated Resources: (Myself, Isky, & Kimera 16x)
 ![2022-07-20 20-02-37_Trim](https://user-images.githubusercontent.com/93109251/180107963-ec23b82a-8e8b-41a1-a591-61f9c85a796a.gif)
 
 Built In Height/Bridge Overlay: 

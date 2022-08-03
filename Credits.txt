@@ -1,4 +1,3 @@
-
 FISHFAULT CREDITS
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Fishfault Features - 
@@ -50,4 +49,3 @@ Other Changes -
 * Breaking Animation: https://www.planetminecraft.com/texture-pack/bar-break-overlay-d/
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 If I failed to credit you or you have any questions contact me on discord @ https://discord.gg/Jbws7FdPWu
-

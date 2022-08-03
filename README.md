@@ -37,6 +37,3 @@ AND SO MUCH MORE! **DOWNLOAD NOW!!!**
 -Sean
 
  - Some textures were not made by me, credits for everything can be found here or in pack itself. Big Thanks to Leafable for 3D models and Funminer for map previews.)
- - The original diamond shop overlay was revamped from Sybillians Overlay and the Bridge Overlay uses the textures from Applepies Overlay.
-
-

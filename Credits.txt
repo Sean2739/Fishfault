@@ -25,7 +25,7 @@ Fishfault Features -
  - ApplePies infamous bridge overlay w/ my own custom height based CTM.
 * Consistent dyes
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Other Changes -
+Other Creator Additions -
 * Corrected Terracotta: https://www.curseforge.com/minecraft/texture-packs/color-corrected-clay
 * Enchantment table: https://www.planetminecraft.com/texture-pack/better-enchanting-table-1-15-x-1-16-x/
 * Animated Resources & Smooth Planks: (Isky's Tiktok Pack)

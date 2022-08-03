@@ -34,7 +34,7 @@ Clean Connected Wool:
 
 AND SO MUCH MORE! **DOWNLOAD NOW!!!**
 
-(Some textures were not made by me, credits for everything can be found here or in pack itself. Big Thanks to Leafable for 3D models and Funminer for map previews.)
+(Some textures were not made by me, credits for everything can be found in the Credits.Txt file. Big Thanks to Leafable for 3D models and Funminer for map previews.)
 
 -Sean
 

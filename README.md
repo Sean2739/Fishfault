@@ -2,10 +2,7 @@
 **Before you download:**
  - This pack is a high performance pack as this pack features CTM and 3D Models
  - If you use this pack, I would recommend turning on "Use VBO's" as it should allow you to render 3D models smoother (especially in games like TNT Run)
- - If you'd like to use a bridge overlay with this pack (other than my own) you would either have to:
- 
- A) Turn off Connected Textures
- B) Use a bridge overlay that features CTM
+ - If you'd like to use a bridge overlay with this pack (other than my own) you would either have to either turn off connected textures **or** use a pack that features Connected Textures
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Some of the best features of this pack include:
 

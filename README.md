@@ -6,7 +6,7 @@
  A) Turn off Connected Textures
  B) Use a bridge overlay that features CTM
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Some of The Features include:
+Some of the best features of this pack include:
 
 **Custom Tools:**
 ![image](https://user-images.githubusercontent.com/93109251/180105969-3bf5a3c1-af23-4840-94b5-fba86b2b54a2.png)

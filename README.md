@@ -5,7 +5,7 @@
  - If you'd like to use a bridge overlay with this pack (other than my own) you would either have to:
  A) Turn off Connected Textures
  B) Use a bridge overlay that features CTM
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Some of The Features include:
 
 Custom Tools: 

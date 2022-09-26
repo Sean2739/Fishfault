@@ -30,7 +30,7 @@ Other Creator Additions -
 * Enchantment table: https://www.planetminecraft.com/texture-pack/better-enchanting-table-1-15-x-1-16-x/
 * Smooth Planks: (Isky's Tiktok Pack)
 * Camo Creepers: https://www.curseforge.com/minecraft/texture-packs/camo-creepers
-* Enchanted books & Enderman: New Default+:
+* Enchanted books & Enderman: New Default+
 * Transparent Explosions: Sybillian BW Overlay
 * Fireball: Kimera 16x
 * Custom Sounds: Novis 16x

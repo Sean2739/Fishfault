@@ -22,7 +22,7 @@ Some of the best features of this pack include:
 ![1648867622543](https://user-images.githubusercontent.com/93109251/180105598-a6e9bede-bb74-4388-a571-047884dbd54d.png)
 **Built In Bedwars Overlay:** 
 ![image](https://user-images.githubusercontent.com/93109251/180108100-2d14efac-6bfa-4ded-ad51-73f5b68f8641.png)
-![2022-09-26_17 34 40](https://user-images.githubusercontent.com/93109251/192396958-fc10c4c0-6568-47d9-9ed9-57568f2c3289.png)
+![image](https://user-images.githubusercontent.com/93109251/192397097-18fbcc46-8c73-4c9c-9d08-5ff377b4d4e2.png)
 **3D Models:** 
 ![image](https://user-images.githubusercontent.com/93109251/180106449-3c194194-6468-4cac-bf3b-e1d9fbc3c286.png)
 **Wool:** 

@@ -49,7 +49,7 @@ Other Creator Additions -
 * Logs: Defrosted 16x
 * Sandstone Bricks: https://www.planetminecraft.com/texture-pack/better-bricks-1-8-9/ & https://www.planetminecraft.com/texture-pack/cut-to-bricks-1-16/
 * 3D Bars & Brewing stand: FruitFul
-* Flowers, gravel, and enderpearls: FruitFul
+* Flowers, Gravel, Smooth Stone, and Enderpearls: FruitFul
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 If I failed to credit you or you have any questions contact me on discord @ https://discord.gg/Jbws7FdPWu
 

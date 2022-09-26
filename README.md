@@ -22,11 +22,12 @@ Some of the best features of this pack include:
 ![1648867622543](https://user-images.githubusercontent.com/93109251/180105598-a6e9bede-bb74-4388-a571-047884dbd54d.png)
 **Built In Bedwars Overlay:** 
 ![image](https://user-images.githubusercontent.com/93109251/180108100-2d14efac-6bfa-4ded-ad51-73f5b68f8641.png)
-![image](https://user-images.githubusercontent.com/93109251/180108391-317b759a-7bfe-4016-86f5-9aeb8257e003.png)
+![2022-09-26_17 34 40](https://user-images.githubusercontent.com/93109251/192396958-fc10c4c0-6568-47d9-9ed9-57568f2c3289.png)
 **3D Models:** 
 ![image](https://user-images.githubusercontent.com/93109251/180106449-3c194194-6468-4cac-bf3b-e1d9fbc3c286.png)
-**Clean Connected Wool:** 
-![image](https://user-images.githubusercontent.com/93109251/180106496-b5717b0a-4870-4b53-9133-2d7f40f30388.png)
+**Wool:** 
+![2022-09-26_17 32 38](https://user-images.githubusercontent.com/93109251/192396935-715d0024-1260-4710-801e-426d4d0a117f.png)
+
 
 AND SO MUCH MORE! **DOWNLOAD NOW!!!**
 

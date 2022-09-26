@@ -3,7 +3,6 @@ FISHFAULT CREDITS
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Fishfault Features - 
 * Custom Leather Armor Model
-* Custom Icons (Health, Hunger, XP bar)
 * Sky (Collab w/ Leafable)
 * Custom Diamond Shop Textures
  - OG diamond shop created by Sybillian
@@ -17,19 +16,20 @@ Fishfault Features -
 * Apples/Golden Apples
 * Litteraly Every tool (axe, pickaxe, shovel, hoe, bow, and fishing rod)
 * Pack Icon
-* Wood Parity (Boat, Sign, Bed, etc.)
+* Block Parity (Boat, Sign, Bed, Furnace, Dropper, etc.)
 * Lilypad Variety (Ported From Forever Vanilla) - Added Flowers
 * 3D Models (TNT, Vines, & Rails)
  - Leafable 
 * Built-In Bridge Overlay
  - ApplePies infamous bridge overlay w/ my own custom height based CTM.
 * Consistent dyes
+* Wool (CDRSalmon edited)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Other Creator Additions -
 * Corrected Terracotta: https://www.curseforge.com/minecraft/texture-packs/color-corrected-clay
 * Enchantment table: https://www.planetminecraft.com/texture-pack/better-enchanting-table-1-15-x-1-16-x/
-* Animated Resources & Smooth Planks: (Isky's Tiktok Pack)
-* Flowers: BetterVanillaBuilding
+* Smooth Planks: (Isky's Tiktok Pack)
+* Flowers: FruitFul
 * Camo Creepers: https://www.curseforge.com/minecraft/texture-packs/camo-creepers
 * Enchanted books & Enderman: New Default+:
 * Transparent Explosions: Sybillian BW Overlay
@@ -38,16 +38,18 @@ Other Creator Additions -
 * Crown Helmets: https://www.planetminecraft.com/texture-pack/crown-helmets-1-8-9/
 * Pumpkins & Transparent Inventory: Azura 16x: 
 * Food: Better Vanilla Foods & Pluvia
-* Glass: https://xaphex.github.io/
-* Rounded Logs: Forever Vanilla
+* Glass: Forever Vanilla
 * Smooth Font: @packMEKer
 * Torches: Sconces
  - Ported by Leafable
 * Polished Stones: Amethyst 16x
-* Wool: Defone Wool overlay w/ CTM
 * Swords: Coast 16x (Edited to match)
 * Redstone Lamp: https://www.planetminecraft.com/texture-pack/xxvi-s-redstone-lamp-1-18/
 * Breaking Animation: https://www.planetminecraft.com/texture-pack/bar-break-overlay-d/
+* Custom Icons: Seafault 16x
+* Logs: Defrosted 16x
+* Sandstone Bricks: https://www.planetminecraft.com/texture-pack/better-bricks-1-8-9/ & https://www.planetminecraft.com/texture-pack/cut-to-bricks-1-16/
+* 3D Bars & Brewing stand: FruitFul
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 If I failed to credit you or you have any questions contact me on discord @ https://discord.gg/Jbws7FdPWu
 

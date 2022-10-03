@@ -32,12 +32,12 @@ Other Creator Additions -
 * Camo Creepers: https://www.curseforge.com/minecraft/texture-packs/camo-creepers
 * Enchanted books & Enderman: New Default+
 * Transparent Explosions: Sybillian BW Overlay
-* Fireball: Kimera 16x
 * Custom Sounds: Novis 16x
 * Crown Helmets: https://www.planetminecraft.com/texture-pack/crown-helmets-1-8-9/
 * Pumpkins & Transparent Inventory: Azura 16x: 
 * Food: Better Vanilla Foods & Pluvia
 * Glass: Forever Vanilla
+ - Ported by Sean
 * Smooth Font: @packMEKer
 * Torches: Sconces
  - Ported by Leafable
@@ -50,6 +50,7 @@ Other Creator Additions -
 * Sandstone Bricks: https://www.planetminecraft.com/texture-pack/better-bricks-1-8-9/ & https://www.planetminecraft.com/texture-pack/cut-to-bricks-1-16/
 * 3D Bars & Brewing stand: FruitFul
 * Flowers, Gravel, Smooth Stone, and Enderpearls: FruitFul
+* Buckets & Widgets: Flora 16x
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 If I failed to credit you or you have any questions contact me on discord @ https://discord.gg/Jbws7FdPWu
 

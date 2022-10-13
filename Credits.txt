@@ -50,7 +50,6 @@ Other Creator Additions -
 * Sandstone Bricks: https://www.planetminecraft.com/texture-pack/better-bricks-1-8-9/ & https://www.planetminecraft.com/texture-pack/cut-to-bricks-1-16/
 * 3D Bars & Brewing stand: FruitFul
 * Flowers, Gravel, Smooth Stone, and Enderpearls: FruitFul
-* Buckets & Widgets: Flora 16x
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 If I failed to credit you or you have any questions contact me on discord @ https://discord.gg/Jbws7FdPWu
 
